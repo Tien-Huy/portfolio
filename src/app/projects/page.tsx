@@ -5,14 +5,10 @@ const projects = [
     tech: ["Next.JS", "Tailwind CSS", "TypeScript"],
   },
   {
-    title: "Ứng dụng Quản lý Công việc",
-    description: "Ứng dụng Todo App với React và Local Storage",
-    tech: ["React", "CSS Modules", "JavaScript"],
-  },
-  {
-    title: "API RESTful",
-    description: "API quản lý sản phẩm với Node.js và Express",
-    tech: ["Node.js", "Express", "MongoDB"],
+    title: "Phần mềm quản lý quán cafe",
+    description:
+      "Ứng dụng desktop giúp quản lý đơn hàng, nhân viên và doanh thu",
+    tech: ["windows forms", "C#", "SQL Server"],
   },
 ];
 export default function ProjectsPage() {
